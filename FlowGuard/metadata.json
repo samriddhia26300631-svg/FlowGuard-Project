@@ -1,0 +1,6 @@
+{
+  "name": "FlowGuard - Agency Operations & Delivery Platform",
+  "description": "Integrated agency operations platform to prevent incomplete work from progressing, identify blockers, and deliver on time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
